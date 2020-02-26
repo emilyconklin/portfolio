@@ -512,4 +512,8 @@ textarea:focus {
   .footer-header {
     font-size: 2.5rem;
   }
+
+  header {
+    background-size: 50%;
+  }
 }
