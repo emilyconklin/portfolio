@@ -515,5 +515,6 @@ textarea:focus {
 
   header {
     background-size: 30%;
+    background-repeat: no-repeat;
   }
 }
